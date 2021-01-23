@@ -19,6 +19,10 @@ font_big = ImageFont.truetype("OpenSans-Regular.ttf", 128)
 font_cal = ImageFont.truetype("DroidSansMono.ttf", 26)
 
 
+zip = "01775"
+api_key = "f34bb5867afce13fa4d365083b672819"
+lat = "42.438009243724835"
+lon = "-71.5324896577448"
 
 epd = epd7in5bc.EPD()
 
